@@ -33,4 +33,4 @@ To run X-DDOS, you need to have Python installed. Follow these steps to get star
 5. Enjoy!
 
 
-![image](https://github.com/user-attachments/assets/cb09b2d8-c4b5-41c0-804d-cd7d8b0c30df)
+![image](https://github.com/user-attachments/assets/cb09b2d8-c4b5-41c0-804d-cd7d8b0c30df) 
