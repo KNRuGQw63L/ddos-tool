@@ -4,7 +4,7 @@ X-DDOS is one of the best DDoS tools out there. It includes a user interface for
 
 ## Features
  
-- DDoS attacks 
+- DDoS attacks  
 - Good user interface
 - IP fetching from the URL
  
