@@ -20,7 +20,7 @@ To run X-DDOS, you need to have Python installed. Follow these steps to get star
  
 ## Usage  
  
-# Guide on how to use these tool  
+# Guide on how to use these tool   
  
 1. Install Python from 
  
