@@ -1,7 +1,7 @@
 # X-DDOS 
       
 X-DDOS is one of the best DDoS tools out there. It includes a user interface for inputting a URL,  resolves the URL to an IP address, and preforms an advanced DDoS attac to the website.
- 
+  
 ## Features  
  
 - DDoS attacks   
