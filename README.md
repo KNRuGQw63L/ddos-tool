@@ -30,7 +30,7 @@ To run X-DDOS, you need to have Python installed. Follow these steps to get star
 
 4. Go in the extracted folder and open the start.bat file
    
-5. Enjoy!    
+5. Enjoy!     
 
   
 ![image](https://github.com/user-attachments/assets/cb09b2d8-c4b5-41c0-804d-cd7d8b0c30df)   
