@@ -10,7 +10,7 @@ X-DDOS is one of the best DDoS tools out there. It includes a user interface for
  
 ## Installation
 
-To run X-DDOS, you need to have Python installed. Follow these steps to get started:
+To run X-DDOS, you need to have Python installed. Follow these steps to get started: 
 
 1. Download the repository as a ZIP file. 
 
